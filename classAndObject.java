@@ -28,6 +28,6 @@ public class classAndObject {
 
     System.out.println(res);
     System.out.println(resSubstract);
+    
    }    
 }
-
